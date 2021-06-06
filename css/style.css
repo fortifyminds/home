@@ -1,0 +1,22 @@
+body{
+    color: blanchedalmond;
+    background-image:linear-gradient(#1DB954,#303a41);
+}
+.menu > a
+{   display: none;
+    visibility: hidden;
+    float: right;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 2em;
+    border: 2px dotted #fff;
+    background-color: #1DB954;
+    margin: 2px;
+}
+.container
+{ font-size: 5em;
+  text-align: center;
+  text-decoration: none;
+  overflow: hidden;
+}
